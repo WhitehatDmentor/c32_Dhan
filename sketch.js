@@ -114,21 +114,7 @@ async function getBackgroundImg(){
    console.log("hour  is: "+ hour);
 
 
-  // for worldclockapi
-  // var response = await fetch("http://worldclockapi.com/api/json/est/now");
-  
- // var datetime = responseJSON.currentDateTime;
-  // console.log("datetime  is: "+ datetime);
-   //var hour = datetime.slice(12,16);
-  //console.log("hour  is: "+ hour);
-  //var currenthoursplit =  split(hour, ':');
-  //console.log("currenthoursplit0  is :" + currenthoursplit[0]);
-  //var currentmin   = currenthoursplit[1];
-  //console.log("currenthoursplit1  is :" + currenthoursplit[1]);
-  //var currenthour = 10 + int(currenthoursplit[0]);
-   
-  //console.log("currenthour after addition  is :" +currenthour);
-
+ 
 
      
     
